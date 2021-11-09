@@ -1,0 +1,25 @@
+body, html {
+    background-color: black;
+    color: greenyellow;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 50%;
+    font-size: large;
+}
+a {
+    background-color: pink;
+    color: greenyellow;
+    text-align: center;
+    width: 100%;
+}
+a:hover {
+    color: hotpink;
+}
+.maik-holder {
+
+}
+.maik-hobys {
+
+}
